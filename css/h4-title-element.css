@@ -1,0 +1,24 @@
+.h4-title-element{
+    font: 40px Arial;
+}
+.h4-title-element span{
+    width: 80%;
+    height: 1px;
+    border-top: 1px solid #ebebeb;
+    display: block;
+    margin: auto;
+    position: relative;
+}
+
+.h4-title-element h4{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 0 25px;
+}
+
+
+
+
+

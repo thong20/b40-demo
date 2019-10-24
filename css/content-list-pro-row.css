@@ -1,0 +1,7 @@
+/* .content .trending-pro .list-pro .list-pro-row{ */
+.content .list-pro .list-pro-row{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 5%;
+}

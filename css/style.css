@@ -1,0 +1,14 @@
+@import "header.css";
+@import "content.css";
+/* @font-face {
+  font-family: FontAwesome;
+  src:url("../font/FontAwesome.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  
+} */
+@import "reset.css";
+@import "h4-title-element.css";
+@import "short-desc.css";
+@import "grid-item.css";
+@import "button.css";

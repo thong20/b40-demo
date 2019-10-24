@@ -1,0 +1,15 @@
+@import "content-banner.css";
+@import "content-top-products.css";
+@import "content-trending-products.css";
+@import "content-list-pro-row.css";
+@import "banner-top.css";
+@import "banner-middle.css";
+@import "content-sale-off.css";
+@import "content-sale-off-list-pro.css";
+@import "content-blog-posts.css";
+
+
+
+.content{
+    padding-bottom: 300px;
+};
